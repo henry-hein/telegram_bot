@@ -1,0 +1,26 @@
+{
+  "name": "wert_telegram_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry-hein/telegram_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henry-hein/telegram_bot/issues"
+  },
+  "homepage": "https://github.com/henry-hein/telegram_bot#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "telegram": "^2.26.22"
+  },
+  "devDependencies": {
+    "eslint": "^9.35.0"
+  }
+}

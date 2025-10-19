@@ -19,7 +19,6 @@
   "homepage": "https://github.com/henry-hein/telegram_bot#readme",
   "dependencies": {
     "dotenv": "^17.2.2",
-    "telegraf": "^4.16.3",
     "telegram": "^2.26.22"
   },
   "devDependencies": {
